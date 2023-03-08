@@ -5,12 +5,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Nobody%E2%80%99s+going+to+help+you;+It%E2%80%99s+all+up+to+you;If+you+resist+change+you+resist+life;Follow+MY+YOUTUBE%3A+%40HUYDGD"></a>
 </p>
 
-
-<br>
-
-
-
-	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
@@ -21,9 +15,9 @@
 - Personal youtube [HUYDGD](https://www.youtube.com/@HUYDGD)
 - I make videos that teach people how to do something. Mainly games, tips & tricks.
 
-<br><br>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -70,13 +64,7 @@
 
 </p>
 
-<br>
-<br>
-
 -----
-
-<br>
-
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
@@ -96,8 +84,6 @@
 
 -----
 
-<br>
-<br>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -157,17 +143,12 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
-<br>
-<br>
 
 <div align='center'>
 
 ## <b>健康は金 ...✨</b>
 
 </div>
-<br>
-<br>
-<br>
 <br>
 
 <!--
