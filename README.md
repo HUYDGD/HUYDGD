@@ -17,8 +17,7 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by Self
+- I'm a Content Creator on Youtube and many other platforms
 - Personal youtube [HUYDGD](https://www.youtube.com/@HUYDGD)
 - I make videos that teach people how to do something. Mainly games, tips & tricks.
 
